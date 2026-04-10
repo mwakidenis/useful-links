@@ -1,6 +1,6 @@
 # Daily Links
 
-You are   required to  replace mwakidenis in the link with your github username.
+You are   required to  replace 'mwakidenis' in the link with your github username.
 
 ---
 
