@@ -1,0 +1,9 @@
+# Daily Links
+
+You are   required to  replace mwakidenis in the link with your github username.
+
+## Once you hit 1000 followers you need this:
+- [Total Followers (JSON)](https://api.github.com/users/mwakidenis)
+
+## For Pull Shark badge lecvel monitoring you need:
+- [Merged Pull Requests](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Amwakidenis)
