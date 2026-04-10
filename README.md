@@ -2,6 +2,8 @@
 
 You are   required to  replace mwakidenis in the link with your github username.
 
+---
+
 ## Once you hit 1000 followers you need this:
 - [Total Followers (JSON)](https://api.github.com/users/mwakidenis)
 
