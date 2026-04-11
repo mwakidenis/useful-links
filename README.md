@@ -13,5 +13,7 @@ You are   required to  replace 'mwakidenis' in the link with your github usernam
 ## All issues (created by you)
 https://github.com/issues?q=author:mwakidenis
 
-  ##
-- 
+ ## Pull requests created by you
+- https://github.com/pulls?q=author:mwakidenis
+
+  ## 
