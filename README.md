@@ -21,4 +21,6 @@ You are   required to  replace 'mwakidenis' in the link with your github usernam
 ## Issues assigned to you
 - https://github.com/issues?q=assignee:mwakidenis
 
+##  Pull requests needing your review
+https://github.com/pulls?q=review-requested:mwakidenis
 
