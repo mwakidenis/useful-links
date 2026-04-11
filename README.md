@@ -11,7 +11,7 @@ You are   required to  replace 'mwakidenis' in the link with your github usernam
 - [Merged Pull Requests](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Amwakidenis)
 
 ## All issues (created by you)
-https://github.com/issues?q=author:mwakidenis
+- https://github.com/issues?q=author:mwakidenis
 
 
  ## Pull requests created by you
