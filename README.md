@@ -14,5 +14,5 @@ You are   required to  replace 'mwakidenis' in the link with your github usernam
 https://github.com/issues?q=author:mwakidenis
 
 ## Issues assigned to you
--https://github.com/issues?q=assignee:mwakidenis
+- https://github.com/issues?q=assignee:mwakidenis
 
