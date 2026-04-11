@@ -9,3 +9,9 @@ You are   required to  replace 'mwakidenis' in the link with your github usernam
 
 ## For Pull Shark badge level monitoring you need:
 - [Merged Pull Requests](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Amwakidenis)
+
+## Fetch Issues around your repos
+- [Issues](https://github.com/issues?q=author:mwakidenis)
+
+  ##
+- 
