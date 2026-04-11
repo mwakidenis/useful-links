@@ -26,5 +26,8 @@ You are   required to  replace 'mwakidenis' in the link with your github usernam
 - https://github.com/pulls?q=review-requested:mwakidenis
 
 ## 📊 Activity & Contributions
-- 
+## Your GitHub profile (overview & contributions)
+- https://github.com/mwakidenis
+
+  ## 
 
