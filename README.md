@@ -96,4 +96,14 @@ https://github.com/mwakidenis?tab=repositories
 https://github.com/search?q=author:mwakidenis+"Co-authored-by"&type=commits
 
 > 💡 Tip (Pair Extraordinaire Badge):
-- MUST include this line in commit:
+- MUST include this line in commits
+<h3 align="center"> mwakidenis</h3>
+
+
+
+<p align="center">
+  <a href="https://github.com/mwakidenis">
+    <img width="400" align="top" src="https://github-profile-trophy.vercel.app/?username=mwakidenis&theme=radical&no-frame=true&row=2&column=3" />
+  </a>
+</p>
+  
