@@ -101,9 +101,6 @@ https://github.com/search?q=author:mwakidenis+"Co-authored-by"&type=commits
 
 
 
-<p align="center">
-  <a href="https://github.com/mwakidenis">
-    <img width="400" align="top" src="https://github-profile-trophy.vercel.app/?username=mwakidenis&theme=radical&no-frame=true&row=2&column=3" />
-  </a>
-</p>
+<h3 align="center"> mwakidenis</h3><p align="center"> <a href="https://github.com/mwakidenis"> <img width="400" align="top" src="https://github-profile-trophy.vercel.app/?username=mwakidenis&theme=radical&no-frame=true&row=2&column=3" /> </a> </p>
+
   
