@@ -99,7 +99,13 @@ https://github.com/search?q=author:mwakidenis+"Co-authored-by"&type=commits
 - MUST include this line in commits
 <h3 align="center"> mwakidenis</h3>
 
+ ---
 
+<div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mwakidenis&bg_color=000000&color=ffffff&line=87CEEB&point=87CEEB&area=true&hide_border=true&custom_title=Mwaki%20Denis's%20Contribution%20Graph" width="100%"/>
+
+</div>
+ 
 
   
