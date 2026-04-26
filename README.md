@@ -135,4 +135,9 @@ https://github.com/search?q=author:mwakidenis+"Co-authored-by"&type=commits
 - 🧩 [OpenBento – Collaboration](https://github.com/SeifeddineJamei/OpenBento)
 
   ---
-  
+  ## Stats
+  <div align="center">
+  <a href="https://swift365.ru">
+    <img src="https://github-readme-stats-mwakidenisgithubvercel.vercel.app/api?username=mwakidenisgithub&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=solarized-dark&hide_border=true&text_color=869396&text_bold=false&ring_color=ffff00" width="605" />
+  </a>
+</div>
